@@ -611,4 +611,3 @@ func TestNewWithLocalAddr(t *testing.T) {
 	assertNil(t, err)
 	assertEqual(t, resp.String(), "TestGet: text response")
 }
-
