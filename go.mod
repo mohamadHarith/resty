@@ -1,4 +1,4 @@
-module github.com/mohamadHarith/resty/v2
+module github.com/mohamadHarith/resty
 
 require (
 	github.com/go-resty/resty/v2 v2.3.0
