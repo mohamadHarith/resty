@@ -10,7 +10,7 @@ gazelle(
 )
 
 go_library(
-    name = "go_default_library",
+    name = "resty",
     srcs = glob(
         ["*.go"],
         exclude = ["*_test.go"],
